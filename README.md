@@ -1,4 +1,4 @@
-# Sup 🍞 Im tostus
+# Sup 🍞 Imtostus
 ## I'm a (bad) coder and a certified (by me) video game player
 (yes "ImTostus" should be written together, its my other nickname)
 Im just some guy trying to learn coding and living.
