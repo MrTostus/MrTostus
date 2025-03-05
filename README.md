@@ -4,11 +4,32 @@
 Im just some guy trying to learn coding and living.
 I'm a certified (by me) video game player and dumbass
 
-### I'm working on:
+### 🤜🤛Helping my friend in making a (hopefully) big minecraft server
+
+### 🛠I'm working on:
  - Accualy passing coding school
  - Making a game
  - Not dying
 
+### ♟currently Learning:
+ - Html
+ - Css
+ - SQL
+
+### 🔑 I want to learn:
+ - Pixel art
+ - Making maps in hammer editor
+ - Game design
+
+### Skills:
+  - Html
+  - Css
+  - SQL
+
+### Fan of:
+  - ❤ Undertale (I love that game)
+  - 💡 Oneshot (I love that too)
+  - 🎶 Listening to Hatsune Miku
 <!--
 **MrTostus/MrTostus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
