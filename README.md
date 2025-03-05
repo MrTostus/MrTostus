@@ -25,6 +25,7 @@ I'm a certified (by me) video game player and dumbass
   - Html
   - C++
   - SQL
+<img src="https://camo.githubusercontent.com/45208b2c6e9c7ca43315ae48a54580c153dad269925f15e9a1351d3e13e84e15/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d63706c7573706c7573">
 
 ### Fan of:
   - ❤ Undertale (I love that game)
