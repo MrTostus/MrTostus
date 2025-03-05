@@ -1,10 +1,13 @@
-# Sup 🍞
-## ImTostus
-(yes it should be written together, its my other nickname)
+# Sup 🍞 Im tostus
+## I'm a (bad) coder and a certified (by me) video game player
+(yes "ImTostus" should be written together, its my other nickname)
 Im just some guy trying to learn coding and living.
-I'm a certified (by me) video game player and bad coder
+I'm a certified (by me) video game player and dumbass
 
-### 
+### I'm working on:
+ - Accualy passing coding school
+ - Making a game
+ - Not dying
 
 <!--
 **MrTostus/MrTostus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
