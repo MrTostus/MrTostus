@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Sup 🍞
+# ImTostus
+(yes it should be written together its my other nickname)
 <!--
 **MrTostus/MrTostus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
