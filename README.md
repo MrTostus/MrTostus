@@ -13,7 +13,7 @@ I'm a certified (by me) video game player and dumbass
 
 ### ♟currently Learning:
  - Html
- - Css
+ - C++
  - SQL
 
 ### 🔑 I want to learn:
@@ -23,7 +23,7 @@ I'm a certified (by me) video game player and dumbass
 
 ### Skills:
   - Html
-  - Css
+  - C++
   - SQL
 
 ### Fan of:
