@@ -22,9 +22,9 @@ I'm a certified (by me) video game player and dumbass
  - Game design
 
 ### Skills:
-![HTML](https://img.shields.io/badge/-HTML--A4373A?style=flat-square&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-yellow?style=flat-square&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-red?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-A4373A?style=flat-square&logo=mysql&logoColor=white)
 
 ### Apps:
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
