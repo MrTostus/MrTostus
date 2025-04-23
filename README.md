@@ -8,7 +8,7 @@ I'm a certified (by me) video game player and dumbass
 
 ### 🛠I'm working on:
  - Accualy passing coding school
- - Making a game
+ - Balatro IRL
  - Not dying
 
 ### ♟currently Learning:
@@ -18,7 +18,6 @@ I'm a certified (by me) video game player and dumbass
 
 ### 🔑 I want to learn:
  - Pixel art
- - Making maps in hammer editor
  - Game design
 
 ### Skills:
@@ -35,17 +34,4 @@ I'm a certified (by me) video game player and dumbass
   - ❤ Undertale (I love that game)
   - 💡 Oneshot (I love that too)
   - 🎶 Listening to Hatsune Miku
-<!--
-**MrTostus/MrTostus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
