@@ -10,6 +10,7 @@ I'm a certified (by me) video game player and dumbass
  - Accualy passing coding school
  - Balatro IRL
  - Not dying
+ - Ultimate Custom Night 50/20
 
 ### ♟currently Learning:
  - Html
