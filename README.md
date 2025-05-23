@@ -6,18 +6,18 @@ I'm a certified (by me) video game player and dumbass
 
 ### 🤜🤛Helping my friend in making a (hopefully) big minecraft server
 
-### 🛠I'm working on:
+### 🛠Working on:
  - Accualy passing coding school
  - Balatro IRL
  - Not dying
  - Ultimate Custom Night 50/20
 
-### ♟currently Learning:
+### ♟Currently Learning:
  - Html
  - C++
  - SQL
 
-### 🔑 I want to learn:
+### 🔑Want to learn:
  - Pixel art
  - Game design
 
