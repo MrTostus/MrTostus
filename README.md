@@ -22,9 +22,6 @@ Im just some guy trying to learn coding and living.
 ### Skills:
 ![HTML](https://img.shields.io/badge/-HTML-yellow?style=flat-square&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
-
-
-### Knows
 ![SQL](https://img.shields.io/badge/-SQL-A4373A?style=flat-square&logo=mysql&logoColor=white)
 
 ### Apps:
