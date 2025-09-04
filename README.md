@@ -2,7 +2,6 @@
 ## I'm a (bad) coder and a certified (by me) video game player
 (yes "ImTostus" should be written together, its my other nickname)
 Im just some guy trying to learn coding and living.
-I'm a certified (by me) video game player and dumbass
 
 ### 🤜🤛Helping my friend in making a (hopefully) big minecraft server
 
@@ -10,7 +9,6 @@ I'm a certified (by me) video game player and dumbass
  - Accualy passing coding school
  - Balatro IRL
  - Not dying
- - Ultimate Custom Night 50/20
 
 ### ♟Currently Learning:
  - Html
@@ -24,6 +22,9 @@ I'm a certified (by me) video game player and dumbass
 ### Skills:
 ![HTML](https://img.shields.io/badge/-HTML-yellow?style=flat-square&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
+
+
+### Knows
 ![SQL](https://img.shields.io/badge/-SQL-A4373A?style=flat-square&logo=mysql&logoColor=white)
 
 ### Apps:
@@ -36,5 +37,5 @@ I'm a certified (by me) video game player and dumbass
 ### Fan of:
   - ❤ Undertale (I love that game)
   - 💡 Oneshot (I love that too)
-  - 🎶 Listening to Hatsune Miku
+  - 🎶 Listening to Kasane Teto
 
