@@ -12,6 +12,7 @@ Im just some guy trying to learn coding and living.
 
 ### ♟Currently Learning:
  - Html
+ - Php
  - C++
  - SQL
 
