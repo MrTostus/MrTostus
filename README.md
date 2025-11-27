@@ -8,7 +8,8 @@ Im just some guy trying to learn coding and living.
 ### 🛠Working on:
  - Accualy passing coding school
  - Balatro IRL
- - Not dying
+ - Videos
+ - Game (hardly)
 
 ### ♟Currently Learning:
  - Html
