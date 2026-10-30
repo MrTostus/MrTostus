@@ -7,8 +7,7 @@ Im just some guy trying to learn coding and living.
 
 ### 🛠Working on:
  - Accualy passing coding school
- - Balatro IRL
- - Videos
+ - Learning to animate in blender
  - Game (hardly)
 
 ### ♟Currently Learning:
